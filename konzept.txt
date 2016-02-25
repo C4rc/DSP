@@ -1,0 +1,9 @@
+Konzept:
+
+Backend: Webserver mit Datenbank,die Anfragen von den Clients bearbeitet.
+
+Frontend: Smartphone-Applikation
+individueller Account und einmaliger Login in der App.
+Anzeige des persönlichen Kaffekonsums (kein Zugriff auf fremde Daten)
+Anzeige der monatlichen Ausgaben
+Auswahl von Kaffeesorten: Dropdown-Liste mit der zuletzt ausgewählten Sorte
