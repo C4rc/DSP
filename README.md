@@ -12,6 +12,7 @@ Projekt zur Realisierung eines Coffee-Managers für die Vorlesung Software Engin
 
 ####Was sind ihre Vorteile?
 - Automatische Berechnung der Kosten.
+- Einfache und faire Abrechnung.
 - Keine unnötige Zeitverschwendung für Kassenführung notwendig.
 - Manipulationssicher.
 - Detaillierte Statistik.
