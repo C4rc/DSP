@@ -1,4 +1,4 @@
-# DSP
+# DSP - by Team Alpha
 
 Projekt zur Realisierung eines Coffee-Managers für die Vorlesung Software Engineering
 
