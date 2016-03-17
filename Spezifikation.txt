@@ -4,17 +4,17 @@ Erstellt   : 03.03.2016
 Bearbeitet : 10.03.2016
 
 Must-Have:
- - Kaffee Konsum Zähler [1]
- - Kosten Berechnung [2]
- - Multi-User-Device [3]
+ - Strichliste [1]
+ - Beitrag / Kosten Berechnung [2]
+ - Nutzung durch mehrere Kollegen / Nutzer [3]
 
 Expected:
  - Passwortschutz []
 
 Nice-to-Have:
- - Dauerhafter Login auf einem Device [4]
+ - Dauerhafter Login auf einem Gerät [4]
  - Passwortschutz abschaltbar [5]
- - Gruppenverwaltung [6]
+ - Kaffeegruppen [6]
  - Unterschiedliche Währungen [7]
  - Plattformunabhängigkeit []
 
@@ -30,19 +30,19 @@ Nicht implementiert:
 	Implementierungsaufwand
 	Wenig bis kein Zusätzlicher Nutzen, Verwirrung der Nutzer
 
-[1] Kaffee Konsum Zähler :
+[1] Strichliste :
 	Anzahl der entnommenen Kaffees wird gezählt
 
-[2] Kosten Berechnung :
+[2] Beitrag / Kosten Berechnung :
 	Berechnung der Summe anhand des Kaffeekonsums pro Nutzer
 
-[3] Multi-User-Device :
+[3] Nutzung durch mehrere Kollegen / Nutzer :
 	Eine Liste mit allen teilnehmenden Nutzern um den Zähler zu erhöhen 
 	Es kann aus der Liste ein Name ausgewählt werden und dieser ausgewählt werden, dann wird bei demjenigen der Konsum um eins erhöht werden
 	( #TODO : Teilnehmende Nutzer sind zu definieren )
 
-[4] Dauerhafter Login auf einem Device:
-	Man kann sich auf einem Device dauerhaft einloggen
+[4] Dauerhafter Login auf einem Gerät:
+	Man kann sich auf einem Gerät dauerhaft einloggen
 	Schnelle/einfache Bedienung
 
 [5] Passwortschutz abschaltbar :
