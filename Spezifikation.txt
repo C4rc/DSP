@@ -16,7 +16,7 @@ Nice-to-Have:
  - Passwortschutz abschaltbar [5]
  - Kaffeegruppen [6]
  - Unterschiedliche Währungen [7]
- - Plattformunabhängigkeit []
+ - Plattformunabhängigkeit [8]
 
 Nicht implementiert:
  - keine Anbindung an Authentifizierungsschnittstellen (Smartcard etc.)
@@ -53,3 +53,6 @@ Nicht implementiert:
 	User können in Gruppen verwaltet werden
 
 [7] Startzielgruppe ist deutsch-sprachiger Raum
+
+[8] Die Anwendung soll von verschiedenen Plattformen, Windows/Linux/Mac Computern und Mobilen Endgeräten (Android/IOS) verwendbar sein.
+    Eventuell sogar mit Apps für die Endgeräte
