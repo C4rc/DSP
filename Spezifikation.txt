@@ -6,7 +6,7 @@ Bearbeitet : 10.03.2016
 Must-Have:
  - Strichliste [1]
  - Beitrag / Kosten Berechnung [2]
- - Nutzung durch mehrere Kollegen / Nutzer [3]
+ - Nutzung durch mehrere Kollegen / Benutzer [3]
 
 Expected:
  - Passwortschutz []
@@ -28,7 +28,7 @@ Nicht implementiert:
 	Zu viele unterschiedliche Systeme
  - Oberfläche nicht customizable
 	Implementierungsaufwand
-	Wenig bis kein Zusätzlicher Nutzen, Verwirrung der Nutzer
+	Wenig bis kein Zusätzlicher Nutzen, Verwirrung der Benutzer
 
 [1] Strichliste :
 	Anzahl der entnommenen Kaffees wird gezählt
