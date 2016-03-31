@@ -7,7 +7,7 @@ Bearbeitet : 31.03.2016
 
 ## Must-Have:
  - Strichliste [[1](#1)]
- - Beitrag / Kosten Berechnung [2]
+ - Beitrag / Kosten Berechnung [[2](#2)]
  - Nutzung durch mehrere Kollegen / Benutzer [3]
 
 ## Expected:
@@ -37,8 +37,10 @@ Bearbeitet : 31.03.2016
 	Anzahl der entnommenen Kaffees wird gezählt
 </a>
 
+<a name="1">
 [2] Beitrag / Kosten Berechnung :
 	Berechnung der Summe anhand des Kaffeekonsums pro Nutzer
+</a>
 
 [3] Nutzung durch mehrere Kollegen / Nutzer :
 	Eine Liste mit allen teilnehmenden Nutzern um den Zähler zu erhöhen 
