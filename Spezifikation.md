@@ -1,7 +1,9 @@
 # Spezifikation - Erster Entwurf
 
-Erstellt   : 03.03.2016
-Bearbeitet : 10.03.2016
+- - -
+Erstellt   : 03.03.2016  
+Bearbeitet : 31.03.2016
+- - -
 
 ## Must-Have:
  - Strichliste [1]
