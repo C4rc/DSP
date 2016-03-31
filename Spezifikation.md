@@ -77,5 +77,8 @@ Bearbeitet : 31.03.2016
 <a name="9">
 [9] Die Anwendung soll von verschiedenen Plattformen, Windows/Linux/Mac Computern und Mobilen Endgeräten (Android/IOS) verwendbar sein.
     Eventuell sogar mit Apps für die Endgeräte
+   
 </a>
+
+<br/>
 [Nach oben](#oben)
