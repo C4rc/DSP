@@ -37,7 +37,7 @@ Bearbeitet : 31.03.2016
 	Anzahl der entnommenen Kaffees wird gezählt
 </a>
 
-<a name="1">
+<a name="2">
 [2] Beitrag / Kosten Berechnung :
 	Berechnung der Summe anhand des Kaffeekonsums pro Nutzer
 </a>
