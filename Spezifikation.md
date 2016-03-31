@@ -8,17 +8,17 @@ Bearbeitet : 31.03.2016
 ## Must-Have:
  - Strichliste [[1](#1)]
  - Beitrag / Kosten Berechnung [[2](#2)]
- - Nutzung durch mehrere Kollegen / Benutzer [3]
+ - Nutzung durch mehrere Kollegen / Benutzer [[3](#3)]
 
 ## Expected:
- - Passwortschutz []
+ - Passwortschutz [[4](#4)]
 
 ## Nice-to-Have:
- - Dauerhafter Login auf einem Gerät [4]
- - Passwortschutz abschaltbar [5]
- - Kaffeegruppen [6]
- - Unterschiedliche Währungen [7]
- - Plattformunabhängigkeit [8]
+ - Dauerhafter Login auf einem Gerät [[5](#5)]
+ - Passwortschutz abschaltbar [[6](#6)]
+ - Kaffeegruppen [[7](#7)]
+ - Unterschiedliche Währungen [[8](#8)]
+ - Plattformunabhängigkeit [[9](#9)]
 
 ## Nicht implementiert:
  - keine Anbindung an Authentifizierungsschnittstellen (Smartcard etc.)
@@ -42,25 +42,40 @@ Bearbeitet : 31.03.2016
 	Berechnung der Summe anhand des Kaffeekonsums pro Nutzer
 </a>
 
+<a name="3">
 [3] Nutzung durch mehrere Kollegen / Nutzer :
 	Eine Liste mit allen teilnehmenden Nutzern um den Zähler zu erhöhen 
 	Es kann aus der Liste ein Name ausgewählt werden und dieser ausgewählt werden, dann wird bei demjenigen der Konsum um eins erhöht werden
 	( #TODO : Teilnehmende Nutzer sind zu definieren )
+	
+</a>
+<a name="4">
+[4] Passwortschutz:
 
-[4] Dauerhafter Login auf einem Gerät:
+</a>
+<a name="5">
+[5] Dauerhafter Login auf einem Gerät:
 	Man kann sich auf einem Gerät dauerhaft einloggen
 	Schnelle/einfache Bedienung
 
-[5] Passwortschutz abschaltbar :
+</a>
+<a name="6">
+[6] Passwortschutz abschaltbar :
 	Passwort pro User abschaltbar
 	Schnelle/einfache Bedienung
 
-[6] User können in Gruppen verwaltet werden
+</a>
+<a name="7">
+[7] User können in Gruppen verwaltet werden
 	User können in Gruppen verwaltet werden
 
-[7] Startzielgruppe ist deutsch-sprachiger Raum
+</a>
+<a name="8">
+[8] Startzielgruppe ist deutsch-sprachiger Raum
 
-[8] Die Anwendung soll von verschiedenen Plattformen, Windows/Linux/Mac Computern und Mobilen Endgeräten (Android/IOS) verwendbar sein.
+</a>
+<a name="9">
+[9] Die Anwendung soll von verschiedenen Plattformen, Windows/Linux/Mac Computern und Mobilen Endgeräten (Android/IOS) verwendbar sein.
     Eventuell sogar mit Apps für die Endgeräte
-
+</a>
 [Nach oben](#oben)
