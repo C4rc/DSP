@@ -1,24 +1,24 @@
-Spezifikation - Erster Entwurf
+# Spezifikation - Erster Entwurf
 
 Erstellt   : 03.03.2016
 Bearbeitet : 10.03.2016
 
-Must-Have:
+## Must-Have:
  - Strichliste [1]
  - Beitrag / Kosten Berechnung [2]
  - Nutzung durch mehrere Kollegen / Benutzer [3]
 
-Expected:
+## Expected:
  - Passwortschutz []
 
-Nice-to-Have:
+## Nice-to-Have:
  - Dauerhafter Login auf einem Gerät [4]
  - Passwortschutz abschaltbar [5]
  - Kaffeegruppen [6]
  - Unterschiedliche Währungen [7]
  - Plattformunabhängigkeit [8]
 
-Nicht implementiert:
+## Nicht implementiert:
  - keine Anbindung an Authentifizierungsschnittstellen (Smartcard etc.)
 	wegen Datenschutz
 	schwierig zu implementieren
