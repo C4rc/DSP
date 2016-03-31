@@ -1,3 +1,5 @@
+# User Stories
+
 Wir haben im Geschäft eine Kaffeemaschine in der Abteilung und halten den jeweiligen Kaffeeverbrauch in einer >>Strichliste<< fest.
 Allerdings kommt es dadurch immer wieder zu Diskrepanzen bei der Abrechnung innerhalb der Abteilung durch eine falsche >>Kosten Berechnung der jeweiligen Kollegen<<, wodurch diese benachteiligt werden.
 Deshalb wünschen wir uns eine Applikation, am besten eine mobile App, mit welcher wir unseren
