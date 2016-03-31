@@ -16,7 +16,3 @@ Projekt zur Realisierung eines Coffee-Managers für die Vorlesung Software Engin
 - Keine unnötige Zeitverschwendung für Kassenführung notwendig.
 - Manipulationssicher.
 - Detaillierte Statistik.
-
-####Userstory
-[13:55, 3/17/2016] +49 1577 6476794: Wir haben im Geschäft eine Kaffeemaschine in der Abteilung und halten den jeweiligen Kaffeeverbrauch in einer Strichliste fest.
-[13:56, 3/17/2016] +49 1577 6476794: Allerdings kommt es dadurch immer wieder zu Diskrepanzen bei der Abrechnung und meistens gits es ein paar Kollegen, welche Benachteiligt werden.
