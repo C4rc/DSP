@@ -1,4 +1,33 @@
 #SCRUM
+<table style="text-align:center; float:right">
+<th>Team</th>
+<tr>
+<td><img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png"></img></td>
+</tr>
+<tr>
+<td>Product Owner</td>
+</tr>
+<td><img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png"></img></td>
+</tr>
+<tr>
+<td>Developer</td>
+</tr>
+<td><img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png"></img></td>
+</tr>
+<tr>
+<td>Developer</td>
+</tr>
+<td><img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png"></img></td>
+</tr>
+<tr>
+<td>Developer</td>
+</tr>
+<td><img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png"></img></td>
+</tr>
+<tr>
+<td>Scrum Master</td>
+</tr>
+</table>
 
 Rollenverteilung
 Product Owner:
