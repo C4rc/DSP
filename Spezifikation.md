@@ -6,7 +6,7 @@ Bearbeitet : 31.03.2016
 - - -
 
 ## Must-Have:
- - Strichliste [1]
+ - Strichliste [[1](#1)]
  - Beitrag / Kosten Berechnung [2]
  - Nutzung durch mehrere Kollegen / Benutzer [3]
 
@@ -32,8 +32,10 @@ Bearbeitet : 31.03.2016
 	Implementierungsaufwand
 	Wenig bis kein Zusätzlicher Nutzen, Verwirrung der Benutzer
 
+<a name="1">
 [1] Strichliste :
 	Anzahl der entnommenen Kaffees wird gezählt
+</a>
 
 [2] Beitrag / Kosten Berechnung :
 	Berechnung der Summe anhand des Kaffeekonsums pro Nutzer
