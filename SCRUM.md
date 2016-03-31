@@ -13,21 +13,24 @@
   <tr>
     <td>Developer</td>
   </tr>
-<td><img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png"></img></td>
-</tr>
-<tr>
-<td>Developer</td>
-</tr>
-<td><img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png"></img></td>
-</tr>
-<tr>
-<td>Developer</td>
-</tr>
-<td><img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png"></img></td>
-</tr>
-<tr>
-<td>Scrum Master</td>
-</tr>
+  <tr>
+    <td><img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png"></img></td>
+  </tr>
+  <tr>
+    <td>Developer</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png"></img></td>
+  </tr>
+  <tr>
+    <td>Developer</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png"></img></td>
+  </tr>
+  <tr>
+    <td>Scrum Master</td>
+  </tr>
 </table>
 
 Rollenverteilung
